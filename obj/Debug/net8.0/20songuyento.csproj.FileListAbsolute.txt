@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\20songuyento\bin\Debug\net8.0\20songuyento.exe
+C:\Users\admin\Desktop\Bai tap\20songuyento\bin\Debug\net8.0\20songuyento.deps.json
+C:\Users\admin\Desktop\Bai tap\20songuyento\bin\Debug\net8.0\20songuyento.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\20songuyento\bin\Debug\net8.0\20songuyento.dll
+C:\Users\admin\Desktop\Bai tap\20songuyento\bin\Debug\net8.0\20songuyento.pdb
+C:\Users\admin\Desktop\Bai tap\20songuyento\obj\Debug\net8.0\20songuyento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\20songuyento\obj\Debug\net8.0\20songuyento.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\20songuyento\obj\Debug\net8.0\20songuyento.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\20songuyento\obj\Debug\net8.0\20songuyento.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\20songuyento\obj\Debug\net8.0\20songuyento.dll
+C:\Users\admin\Desktop\Bai tap\20songuyento\obj\Debug\net8.0\refint\20songuyento.dll
+C:\Users\admin\Desktop\Bai tap\20songuyento\obj\Debug\net8.0\20songuyento.pdb
+C:\Users\admin\Desktop\Bai tap\20songuyento\obj\Debug\net8.0\20songuyento.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\20songuyento\obj\Debug\net8.0\ref\20songuyento.dll
